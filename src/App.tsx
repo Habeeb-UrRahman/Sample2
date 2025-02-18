@@ -491,7 +491,8 @@ function App() {
             </div>
             <div className="image-card rounded-lg overflow-hidden shadow-lg">
               <img 
-                src="https://images.unsplash.com/photo-1590959651373-a3db0f38a961?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+                //src="https://images.unsplash.com/photo-1590959651373-a3db0f38a961?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+                src="https://stellarix.com/wp-content/uploads/2024/06/cover15.jpg"
                 alt="Renewable Energy"
                 className="w-full h-64 object-cover"
               />
