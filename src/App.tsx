@@ -567,6 +567,25 @@ function App() {
           </div>
         </section>
 
+        {/* Presentation Section
+        <section id="presentation" className="min-h-screen py-16 section-animate mb-16">
+          <h2 className="text-4xl font-light text-gray-800 mb-12">
+            Presentation
+            <span className="block text-sm text-green-600 mt-2">Watch and learn</span>
+          </h2>
+          <div className="bg-gray-50 rounded-lg p-8">
+            <div className="aspect-w-16 aspect-h-9 bg-gray-100 rounded-lg flex items-center justify-center mb-6 hover:bg-gray-200 transition-all duration-300 group cursor-pointer">
+              <div className="text-center p-12 transform transition-transform group-hover:scale-110">
+                <Play className="w-16 h-16 text-green-600 mx-auto mb-4" />
+                <p className="text-gray-600">Video presentation coming soon</p>
+              </div>
+            </div>
+            <div className="text-center">
+              <p className="text-gray-600">Presenter: <span className="text-gray-800 font-medium">Shabul Hussain</span></p>
+            </div>
+          </div>
+        </section> */}
+
           {/* Presentation Section */}
           <section id="presentation" className="min-h-screen py-16 section-animate mb-16">
             <h2 className="text-4xl font-light text-gray-800 mb-12">
