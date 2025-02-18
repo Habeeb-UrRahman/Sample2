@@ -474,7 +474,8 @@ function App() {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="image-card rounded-lg overflow-hidden shadow-lg">
               <img 
-                src="https://images.unsplash.com/photo-1616469829581-73993eb86b02?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+                //src="https://images.unsplash.com/photo-1616469829581-73993eb86b02?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+                src="https://www.consultancy.in/illustrations/news/detail/2024-11-06-031237533-Navigating_profit_pressures_in_the_pharma_sector_with_operational_excellence.jpg"
                 alt="Pharmaceutical Industry"
                 className="w-full h-64 object-cover"
               />
